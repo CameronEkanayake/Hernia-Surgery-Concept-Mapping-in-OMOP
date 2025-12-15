@@ -1,0 +1,226 @@
+sourceCode,Database Source Concept,OMOP Concept ID,OMOP Concept Name,OMOP Domain,OMOP Concept Class,Vocabulary
+HERN 155,VENTRAL HERNIA:INCISIONAL,4188180,Ventral incisional hernia,Condition,Disorder,SNOMED
+HERN156,VENTRAL HERNIA: PARASTOMAL,4342896,Parastomal hernia,Condition,Disorder,SNOMED
+HERN157,VENTRAL HERNIA: EPIGASTRIC,4128844,Epigastric hernia,Condition,Disorder,SNOMED
+HERN 158,VENTRAL HERNIA: UMBILICAL,4245842,Umbilical hernia,Condition,Disorder,SNOMED
+HERN 159,VENTRAL HERNIA: SPIGELIAN,4159513,Spigelian hernia,Condition,Disorder,SNOMED
+HERN 160,VENTRAL HERNIA: LUMBAR,4051166,Lumbar hernia,Condition,Disorder,SNOMED
+HERN 161,VENTRAL HERNIA: DIASTASIS RECTI,4269062,Diastasis recti,Condition,Disorder,SNOMED
+HERN 162,VENTRAL HERNIA: THORACOABDOMINAL,0,Unmapped,,,
+HERN 163,INGUINAL HERNIA,4288544,Inguinal hernia,Condition,Disorder,SNOMED
+HERN 164,FEMORAL HERNIA,4178874,Femoral hernia,Condition,Disorder,SNOMED
+HERN 165,SPORTS HERNIA,0,Unmapped,,,
+HERN 166,CHRONIC GROIN PAIN,0,Unmapped,,,
+HERN 167,INDEPENDENT,45876353,Independent,Meas Value,Answer,LOINC
+HERN 168,PARTIALLY DEPENDENT,0,Unmapped,,,
+HERN 169,TOTALLY DEPENDENT,45877658,Total dependence,Meas Value,Answer,LOINC
+HERN 170,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+HERN 171,MALIGNANT,192735,Malignant ascites,Condition,Disorder,SNOMED
+HERN 172,HEPATIC,4342883,Hepatic ascites,Condition,Disorder,SNOMED
+HERN 173,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+HERN 174,CURRENT SMOKER,36309332,Current smoker,Meas Value,Answer,LOINC
+HERN 175,PRIOR SMOKER,45883458,Former smoker,Meas Value,Answer,LOINC
+HERN 176,NEVER SMOKER,45879404,Never smoker,Meas Value,Answer,LOINC
+HERN 177,MF1,0,Unmapped,,,
+HERN 178,MF2,0,Unmapped,,,
+HERN 179,MF3,0,Unmapped,,,
+HERN 180,MF4,0,Unmapped,,,
+HERN 181,MF5,0,Unmapped,,,
+HERN 182,SUPERFICIAL,36308230,Superficial surgical site infection,Meas Value,Answer,LOINC
+HERN 183,DEEP,36309030,Deep surgical site infection,Meas Value,Answer,LOINC
+HERN 184,ORGAN SPACE,43530820,Organ-space surgical site infection,Condition,Disorder,SNOMED
+HERN 185,ACTIVE INFECTION,0,Unmapped,,,
+HERN 186,PRIOR INFECTION,0,Unmapped,,,
+HERN 187,POSTERIOR RECTUS SHEATH,4091078,Posterior rectus sheath,Spec Anatomic Site,Body Structure,SNOMED
+HERN 188,TRANSVERSUS ABDOMINIS: UNILATERAL,4074074,Entire transversus abdominis muscle,Spec Anatomic Site,Body Structure,SNOMED
+HERN 189,TRANSVERSUS ABDOMINIS: BILATERAL,4074074,Entire transversus abdominis muscle,Spec Anatomic Site,Body Structure,SNOMED
+HERN 190,EXTERNAL OBLIQUE: UNILATERAL,4105673,External oblique aponeurosis,Spec Anatomic Site,Body Structure,SNOMED
+HERN 191,EXTERNAL OBLIQUE: BILATERAL,4105673,External oblique aponeurosis,Spec Anatomic Site,Body Structure,SNOMED
+HERN 192,1,0,Unmapped,,,
+HERN 193,2,0,Unmapped,,,
+HERN 194,3,0,Unmapped,,,
+HERN 195,4,0,Unmapped,,,
+HERN 196,5 OR MORE,0,Unmapped,,,
+HERN 197,LYING DOWN,4009887,Recumbent body position,Observation,Clinical Finding,SNOMED
+HERN 198,BENDING OVER,0,Unmapped,,,
+HERN 199,SITTING UP,4093539,Sitting upright,Observation,Clinical Finding,SNOMED
+HERN 200,ACTIVITIES OF DAILY LIVING,3968670,Activities of daily living,Meas Value,Answer,LOINC
+HERN 201,WALKING,4044711,Walking,Observation,Observable Entity,SNOMED
+HERN 202,WALKING UPSTAIRS,45879474,Walking up a flight of stairs,Meas Value,Answer,LOINC
+HERN 203,EXCERCISING,3968729,Exercising,Meas Value,Answer,LOINC
+HERN 204,COUGHING/DEEP BREATHING,0,Unmapped,,,
+HERN 205,ASA 1,4186042,American Society of Anesthesiologists physical status class 1,Condition,Clinical Finding,SNOMED
+HERN 206,ASA 2,4184967,American Society of Anesthesiologists physical status class 2,Condition,Clinical Finding,SNOMED
+HERN 207,ASA 3,4186043,American Society of Anesthesiologists physical status class 3,Condition,Clinical Finding,SNOMED
+HERN 208,ASA 4,4211334,American Society of Anesthesiologists physical status class 4,Condition,Clinical Finding,SNOMED
+HERN 209,ASA 5 ,4186044,American Society of Anesthesiologists physical status class 5,Condition,Clinical Finding,SNOMED
+HERN 210,CLEAN,4303395,CDC Class I/Clean,Condition,Clinical Finding,SNOMED
+HERN 211,CLEAN-CONTAMINATED,4167032,CDC Class II/Clean-contaminated,Condition,Clinical Finding,SNOMED
+HERN 212,CONTAMINATED,4169635,CDC Class III/Contaminated,Condition,Clinical Finding,SNOMED
+HERN 213,1,0,Unmapped,,,
+HERN 214,2,0,Unmapped,,,
+HERN 215,3,0,Unmapped,,,
+HERN 216,GENERAL,4174669,Administration of general anesthetic,Procedure,Procedure,SNOMED
+HERN 217,LOCAL,4303995,Local anesthesia,Procedure,Procedure,SNOMED
+HERN 218,MONITORED ANESTHESIA CARE,4217901,MAC sedation,Procedure,Procedure,SNOMED
+HERN 219,OTHER,45878142,Other,Meas Value,Answer,LOINC
+HERN 220,SOFT TISSUE/PLASTICS,0,Unmapped,,,
+HERN 221,HERNIA,4196678,Hernia repair,Procedure,Procedure,SNOMED
+HERN 222,FOREGUT,0,Unmapped,,,
+HERN 223,ENDOCRINE,4043020,Procedure on endocrine system,Procedure,Procedure,SNOMED
+HERN 224,BARIATRIC,4326683,Bariatric operative procedure,Procedure,Procedure,SNOMED
+HERN 225,ENTERIC FISTULA TAKEDOWN,0,Unmapped,,,
+HERN 226,HEPATOPANCREATICOBILIARY (EXCLUDING CHOLECYSTECTOMY),0,Unmapped,,,
+HERN 227,CHOLECYSTECTOMY,4242997,Cholecystectomy,Procedure,Procedure,SNOMED
+HERN 228,VASCULAR,4148948,Vascular surgery procedure,Procedure,Procedure,SNOMED
+HERN 229,SMALL INTESTINAL,0,Unmapped,,,
+HERN 230,COLORECTAL,0,Unmapped,,,
+HERN 231,OBSTETRIC/GYNECOLOGIC,0,Unmapped,,,
+HERN 232,UROLOGIC,0,Unmapped,,,
+HERN 233,HEMORRHAGE REQUIRING TRANSFUSION,36712677,Bleeding requiring transfusion,Condition,Clinical Finding,SNOMED
+HERN 234,PERITONEAL ACCESS INJURY,0,Unmapped,,,
+HERN 235,BOWEL INJURY,4054059,Injury of intestine,Condition,Disorder,SNOMED
+HERN 236,LIVER INJURY,193355,Injury of liver,Condition,Disorder,SNOMED
+HERN 237,GASTRIC INJURY,4053830,Injury of stomach,Condition,Disorder,SNOMED
+HERN 238,MAJOR VASCULAR INJURY REQUIRING OPERATIVE INTERVENTION,0,Unmapped,,,
+HERN 239,SPERMATIC CORD INJURY,4110295,Injury of spermatic cord,Condition,Disorder,SNOMED
+HERN 240,TESTICULAR INJURY,4134156,Injury of testis,Condition,Disorder,SNOMED
+HERN 241,NONE,45878582,None,Meas Value,Answer,LOINC
+HERN 242,PARTIAL,4116993,Partial,Meas Value,Qualifier Value,SNOMED
+HERN 243,COMPLETE,4112431,Complete,Meas Value,Qualifier Value,SNOMED
+HERN 244,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+HERN 245,SYNTHETIC: PERMANENT,0,Unmapped,,,
+HERN 246,SYNTHETIC: ABSORBABLE,0,Unmapped,,,
+HERN 247,BIOLOGIC,4029802,Biologic,Meas Value,Qualifier Value,SNOMED
+HERN 248,BIOLOGIC: HYBRID,0,Unmapped,,,
+HERN 249,M1: SUBXIPHOID,0,Unmapped,,,
+HERN 250,M2: EPIGASTRIC,0,Unmapped,,,
+HERN 251,M3: UMBILICAL,0,Unmapped,,,
+HERN 252,M4: INFRAUMBILICAL,4112049,Infra-umbilical region,Spec Anatomic Site,Body Structure,SNOMED
+HERN 253,M5: SUPRAPUBIC,4035235,Hypogastric region structure,Spec Anatomic Site,Body Structure,SNOMED
+HERN 254,NO MIDLINE COMPONENT,0,Unmapped,,,
+HERN 255,L1: SUBCOSTAL,4139467,Subcostal,Observation,Qualifier Value,SNOMED
+HERN 256,L2: FLANK,4242421,Flank structure,Spec Anatomic Site,Body Structure,SNOMED
+HERN 257,L3: ILIAC,4074499,Entire iliacus muscle,Spec Anatomic Site,Body Structure,SNOMED
+HERN 258,L4: LUMBAR,0,Unmapped,,,
+HERN 259,NO LATERAL COMPONENT,0,Unmapped,,,
+HERN 260,OPEN,4044378,Open approach,Observation,Qualifier Value,SNOMED
+HERN 261,LAPAROSCOPIC,44790020,Laparoscopically assisted approach to abdominal cavity,Observation,Qualifier Value,SNOMED
+HERN 262,ROBOTIC,46272913,Robotic assisted surgery,Procedure,Procedure,SNOMED
+HERN 263,LAPAROSCOPIC: CONVERTED TO OPEN,1244015,Laparoscopic procedure with conversion to open approach,Procedure,Procedure,SNOMED
+HERN 264,ROBOTIC: CONVERTED OPEN,0,Unmapped,,,
+HERN 265,LAPAROSCOPIC: HYBRID,0,Unmapped,,,
+HERN 266,ROBOTIC: HYBRID,0,Unmapped,,,
+HERN 267,PRIMARY SUTURED,0,Unmapped,,,
+HERN 268,TRANSABDOMINAL PREPERITONEAL,0,Unmapped,,,
+HERN 269,ENHANCED-VIEW TOTALLY EXTRAPERITONEAL,0,Unmapped,,,
+HERN 270,TRANSABDOMINAL   ,0,Unmapped,,,
+HERN 271,INTRAPERITONEAL ONLAY MESH,0,Unmapped,,,
+HERN 272,SUBCUTANEOUS ONLAY LAPAROSCOPIC APPROACH,0,Unmapped,,,
+HERN 273,MINI-OR-LESS-OPEN SUBLAY,0,Unmapped,,,
+HERN 274,POSTERIOR RECTUS SHEATH,4091078,Posterior rectus sheath,Spec Anatomic Site,Body Structure,SNOMED
+HERN 275,TRANSVERSUS ABDOMINIS: UNILATERAL,4074074,Entire transversus abdominis muscle,Spec Anatomic Site,Body Structure,SNOMED
+HERN 276,TRANSVERSUS ABDOMINIS: BILATERAL,4074074,Entire transversus abdominis muscle,Spec Anatomic Site,Body Structure,SNOMED
+HERN 277,EXTERNAL OBLIQUE: UNILATERAL,0,Unmapped,,,
+HERN 278,EXTERNAL OBLIQUE: BILATERAL,0,Unmapped,,,
+HERN 279,1,0,Unmapped,,,
+HERN 280,2,0,Unmapped,,,
+HERN 281,3,0,Unmapped,,,
+HERN 282,4 OR MORE,36210425,4 or more,Meas Value,Answer,LOINC
+HERN 283,ONLAY,4154035,Onlay,Observation,Qualifier Value,SNOMED
+HERN 284,INLAY,0,Unmapped,,,
+HERN 285,SUBLAY: RETROMUSCULAR,0,Unmapped,,,
+HERN 286,SUBLAY: PREPERITONEAL,0,Unmapped,,,
+HERN 287,SUBLAY: INTRAPERITONEAL,0,Unmapped,,,
+HERN 288,BARD SOFT,0,Unmapped,,,
+HERN 289,PARIETENE,0,Unmapped,,,
+HERN 290,PHASIS ST,0,Unmapped,,,
+HERN 291,PHASIS ST,0,Unmapped,,,
+HERN 292,MARLEX,0,Unmapped,,,
+HERN 293,BARD SOFT,0,Unmapped,,,
+HERN 294,BIOLOGIC,4029802,Biologic,Meas Value,Qualifier Value,SNOMED
+HERN 295,OTHER LIGHTWEIGHT POLYPROPYLENE,0,Unmapped,,,
+HERN 296,OTHER MID-WEIGHT POLYPROPYLENE,0,Unmapped,,,
+HERN 297,OTHER HEAVYWEIGHT POLYPROPYLENE,0,Unmapped,,,
+HERN 298,COATED POLYPROPYLENE,0,Unmapped,,,
+HERN 299,OTHER ABSORBABLE SYNTHETIC,0,Unmapped,,,
+HERN 300,ADHESIVE,4219210,Adhesive,Device,Physical Object,SNOMED
+HERN 301,PERMANENT SUTURE: TO BONE/LIGAMENT,0,Unmapped,,,
+HERN 302,ABSORBABLE SUTURE: TO BONE/LIGAMENT,0,Unmapped,,,
+HERN 303,PERMANENT SUTURE: PERCUTANEOUS MYOFASCIAL FIXATION,0,Unmapped,,,
+HERN 304,ABSORBABLE SUTURE: PERCUTANEOUS MYOFASCIAL FIXATION,0,Unmapped,,,
+HERN 305,PERMANENT SUTURE: NON-PERCUTANEOUS MYOFASCIAL FIXATION,0,Unmapped,,,
+HERN 306,ABSORBABLE SUTURE: NON-PERCUTANEOUS MYOFASCIAL FIXATION,0,Unmapped,,,
+HERN 307,ABSORBABLE ,3655442,Absorbable,Meas Value,Qualifier Value,SNOMED
+HERN 308,PERMANENT,4238885,Permanent,Meas Value,Qualifier Value,SNOMED
+HERN 309,RUNNING,0,Unmapped,,,
+HERN 310,SIMPLE INTERRUPTED,0,Unmapped,,,
+HERN 311,FIGURE-OF-EIGHT,0,Unmapped,,,
+HERN 312,SUBCUTANEOUS,0,Unmapped,,,
+HERN 313,RETROMUSCULAR,0,Unmapped,,,
+HERN 314,INTRAPERITONEAL,0,Unmapped,,,
+HERN 315,CLOSED,4104200,Closed,Meas Value,Qualifier Value,SNOMED
+HERN 316,INCISIONAL VACUUM THERAPY,0,Unmapped,,,
+HERN 317,NEGATIVE PRESSURE WOUND THERAPY,44806023,Negative pressure wound therapy to open abdomen,Observation,Procedure,SNOMED
+HERN 318,PACKING,0,Unmapped,,,
+HERN 319,WITHIN 90 DAYS,761977,Within last three months,Observation,Qualifier Value,SNOMED
+HERN 320,AFTER 90 DAYS,0,Unmapped,,,
+HERN 321,PHONE,4089036,Telephone encounter,Procedure,Procedure,SNOMED
+HERN 322,IN-PERSON,764337,In-person encounter,Observation,Procedure,SNOMED
+HERN 323,TELEHEALTH VIDEO,37153814,Telehealth service,Observation,Qualifier Value,SNOMED
+HERN 324,RADIOGRAPHIC,4080877,Radiographic imaging - action,Observation,Qualifier Value,SNOMED
+HERN 325,CLINICAL EXAM,4240345,Physical examination,Procedure,Procedure,SNOMED
+HERN 326,PATIENT REPORT,46237829,Patient reported,Meas Value,Answer,LOINC
+HERN 327,PAIN,4329041,Pain,Condition,Clinical Finding,SNOMED
+HERN 328,PROSTHETIC-RELATED COMPLICATION,0,Unmapped,,,
+HERN 329,WOUND COMPLICATION,0,Unmapped,,,
+HERN 330,BLEEDING COMPLICATION,0,Unmapped,,,
+HERN 331,THROMBOTIC (NON-CARDIAC) COMPLICATION,0,Unmapped,,,
+HERN 332,ILEUS,0,Unmapped,,,
+HERN 333,SMALL BOWEL OBSTRUCTION,4090129,Small bowel obstruction,Condition,Disorder,SNOMED
+HERN 334,BOWEL INJURY,4054059,Injury of intestine,Condition,Disorder,SNOMED
+HERN 335,CARDIAC COMPLICATION,321462,Cardiac complication,Condition,Disorder,SNOMED
+HERN 336,RESPIRATORY COMPLICATION,321483,Respiratory complication,Condition,Disorder,SNOMED
+HERN 337,UNRECOGNIZED ENTEROTOMY,0,Unmapped,,,
+HERN 338,WOUND COMPLICATION,0,Unmapped,,,
+HERN 339,MESH EXCISION,0,Unmapped,,,
+HERN 340,POSTOPERATIVE BLEEDING,4002836,Postoperative hemorrhage,Condition,Disorder,SNOMED
+HERN 341,RECURRENCE,4078193,Recurrence,Meas Value,Qualifier Value,SNOMED
+HERN 342,BOWEL OBSTRUCTION,193518,Intestinal obstruction,Condition,Disorder,SNOMED
+HERN 343,DEEP,36309030,Deep surgical site infection,Meas Value,Answer,LOINC
+HERN 344,SUPERFICIAL,36308230,Superficial surgical site infection,Meas Value,Answer,LOINC
+HERN 345,ORGAN SPACE,43530820,Organ-space surgical site infection,Condition,Disorder,SNOMED
+HERN 346,WOUND CELLULITIS,4343215,Wound cellulitis,Condition,Disorder,SNOMED
+HERN 347,NON-CELLULITIS,0,Unmapped,,,
+HERN 348,NON-HEALING INCISIONAL WOUND,36683375,Non-healing surgical wound,Condition,Clinical Finding,SNOMED
+HERN 349,FASCIAL DISRUPTION,0,Unmapped,,,
+HERN 350,SKIN OR SOFT TISSUE ISCHEMIA,0,Unmapped,,,
+HERN 351,WOUND SEROUS DRAINAGE,0,Unmapped,,,
+HERN 352,WOUND PURULENT DRAINAGE,1989877,Purulent drainage,Meas Value,Answer,LOINC
+HERN 353,CHRONIC SINUS DRAINAGE,0,Unmapped,,,
+HERN 354,LOCALIZED STAB WOUND INFECTION,0,Unmapped,,,
+HERN 355,STITCH ABSCESS,4031463,Stitch abscess,Condition,Disorder,SNOMED
+HERN 356,SEROMA,37018844,Seroma,Condition,Disorder,SNOMED
+HERN 357,INFECTED SEROMA,0,Unmapped,,,
+HERN 358,HEMATOMA,4299449,Hematoma,Condition,Disorder,SNOMED
+HERN 359,INFECTED HEMATOMA,44784425,Infected hematoma,Condition,Disorder,SNOMED
+HERN 360,EXPOSED MESH,0,Unmapped,,,
+HERN 361,CONTAMINATED MESH,0,Unmapped,,,
+HERN 362,MESH INFECTION,0,Unmapped,,,
+HERN 363,ENTEROCUTANEOUS FISTULA,4055202,Enterocutaneous fistula,Condition,Disorder,SNOMED
+HERN 364,GROIN,4098586,Inguinal region structure,Spec Anatomic Site,Body Structure,SNOMED
+HERN 365,INCISION,0,Unmapped,,,
+HERN 366,IN BETWEEN,4043352,Intermediate,Meas Value,Qualifier Value,SNOMED
+HERN 367,WITHIN 90 DAYS,761977,Within last three months,Observation,Qualifier Value,SNOMED
+HERN 368,AFTER 90 DAYS,45879185,More than 90 days,Meas Value,Answer,LOINC
+HERN 369,NORMAL,4069590,Normal,Meas Value,Qualifier Value,SNOMED
+HERN 370,CONSTIPATED,75860,Constipation,Condition,Clinical Finding,SNOMED
+HERN 371,NORMAL,4069590,Normal,Meas Value,Qualifier Value,SNOMED
+HERN 372,DIFFICULTIES,0,Unmapped,,,
+HERN 373,1,0,Unmapped,,,
+HERN 374,2,0,Unmapped,,,
+HERN 375,3,0,Unmapped,,,
+HERN 376,4,0,Unmapped,,,
+HERN 377,5,0,Unmapped,,,
+HERN 378,1,0,Unmapped,,,
+HERN 379,2,0,Unmapped,,,
