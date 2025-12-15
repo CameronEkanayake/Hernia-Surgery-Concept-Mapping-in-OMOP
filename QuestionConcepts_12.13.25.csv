@@ -1,0 +1,154 @@
+sourceCode,Database Source Concept,OMOP Concept ID,OMOP Concept Name,OMOP Domain,OMOP Concept Class,Vocabulary
+HERN001,Surgeon,1616663,Surgeon,Observation,Clinical Observation,LOINC
+HERN003,Date of birth,4083587,Date of birth,Observation,Observable Entity,SNOMED
+HERN004,Sex,37116947,Biological sex,Observation,Qualifier Value,SNOMED
+HERN005,Race/ethnicity,3050381,Race or ethnicity,Observation,Clinical Observation,LOINC
+HERN006,Patient lives outside the United States (US)?,40757253,Lives outside U.S.,Observation,Survey,LOINC
+HERN007,Zip code,4083591,Patient postal code,Observation,Observable Entity,SNOMED
+HERN008,Height,3036277,Body height,Measurement,Clinical Observation,LOINC
+HERN009,Weight,3025315,Body weight,Measurement,Clinical Observation,LOINC
+HERN010,body mass index (BMI),4245997,Body mass index,Measurement,Observable Entity,SNOMED
+HERN011,Primary Hernia Diagnosis,0,Unmapped,,,
+HERN012,Counseled on preoperative weight loss?,4306538,Weight maintenance consultation,Observation,Procedure,SNOMED
+HERN013,Functional status,40757653,Functional status,Observation,Survey,LOINC
+HERN014,Hepatic insufficiency/failure?,4245975,Hepatic failure,Condition,Disorder,SNOMED
+HERN015,Total bilirubin level (mg/dL),3045524,Bilirubin direct and total panel [Mass/volume] - Serum or Plasma,Measurement,Lab Test,LOINC
+HERN016,Creatinine level (mg/dL),4276437,Serum creatinine level - finding,Measurement,Clinical Finding,SNOMED
+HERN017,international normalized ratio (INR),4306239,International normalized ratio,Measurement,Observable Entity,SNOMED
+HERN018,Sodium level (mEq/L),4269839,Sodium level - finding,Measurement,Clinical Finding,SNOMED
+HERN019,Ascites?,200528,Ascites,Condition,Disorder,SNOMED
+HERN020,"Ascites/If yes, specify type",0,Unmapped,,,
+HERN021,Hypertension?,316866,Hypertensive disorder,Condition,Disorder,SNOMED
+HERN022,Diabetes?,201820,Diabetes mellitus,Condition,Disorder,SNOMED
+HERN023,Hemoglobin A1C,3033145,Hemoglobin A1c measurement device panel,Measurement,Clinical Observation,LOINC
+HERN024,chronic obstructive pulmonary disease (COPD)?,255573,Chronic obstructive pulmonary disease,Condition,Disorder,SNOMED
+HERN025,Peritoneal dialysis?,4324124,Peritoneal dialysis,Procedure,Procedure,SNOMED
+HERN026,Anti-platelet medication use?,0,Unmapped,,,
+HERN027,Anti-platelet medication held prior to surgery?,0,Unmapped,,,
+HERN028,Anticoagulation medication use?,0,Unmapped,,,
+HERN029,Anticoagulation medication held prior to surgery?,0,Unmapped,,,
+HERN030,Immunosuppressant medication use?,4157007,Patient immunosuppressed,Observation,Clinical Finding,SNOMED
+HERN031,Nicotine use,1077391,Use of nicotine,Observation,Observable Entity,SNOMED
+HERN032,Congestive heart failure?,319835,Congestive heart failure,Condition,Disorder,SNOMED
+HERN033,Frailty index,37017370,Frailty Index,Measurement,Staging / Scales,SNOMED
+HERN034,History of abdominal wall surgical site infection (SSI)?,0,Unmapped,,,
+HERN035,"History of abdominal wall surgical site infection (SSI)//If yes, specify location",0,Unmapped,,,
+HERN036,History of mesh infection?,0,Unmapped,,,
+HERN037,"History of mesh infection//If yes, specify status",0,Unmapped,,,
+HERN038,"History of mesh infection//If yes, was mesh removed?",0,Unmapped,,,
+HERN039,History of methicillin-resistant Staphylococcus aureus (MRSA) infection?,37079272,Methicillin-resistant Staphylococcus aureus (MRSA),Meas Value,Answer,LOINC
+HERN040,History of component separation?,0,Unmapped,,,
+HERN041,"History of component separation? If yes, specify component (s)",0,Unmapped,,,
+HERN042,Recurrent hernia?,4190765,Recurrent hernia of anterior abdominal wall,Condition,Disorder,SNOMED
+HERN043,"Recurrent hernia//If yes, specify number of prior hernia repairs",0,Unmapped,,,
+HERN044,History of open abdomen surgery?,0,Unmapped,,,
+HERN045,Hernia related to prior solid organ transplant?,0,Unmapped,,,
+HERN046,Hernia related to prior cancer operation?,0,Unmapped,,,
+HERN047,Mesh sensation?,0,Unmapped,,,
+HERN048,"Mesh sensation//If yes, specify when",0,Unmapped,,,
+HERN049,Pain related to hernia?,0,Unmapped,,,
+HERN050,"Pain related to hernia//If yes, specifiy when",0,Unmapped,,,
+HERN051,Movement limitations?,4323826,Limitation of joint movement,Observation,Clinical Finding,SNOMED
+HERN052,"Movement limitatoins//If yes, specify when",0,Unmapped,,,
+HERN053,Procedure date,21494244,Date of procedure,Observation,Clinical Observation,LOINC
+HERN054,American Society of Anesthesiologists (ASA) class,4199571,American Society of Anesthesiologists physical status class,Measurement,Observable Entity,SNOMED
+HERN055,Elective case?,44804440,Elective service,Observation,Qualifier Value,SNOMED
+HERN056,Outpatient procedure?,4155973,Outpatient procedure,Procedure,Procedure,SNOMED
+HERN057,Centers for Disease Control and Prevention (CDC) wound class,4169123,CDC wound classification finding,Condition,Clinical Finding,SNOMED
+HERN058,Modified Ventral Hernia Working Group (MVHWG) grade,0,Unmapped,,,
+HERN059,Operative time (minutes),0,Unmapped,,,
+HERN060,Principal anesthesia technique,0,Unmapped,,,
+HERN061,Concomitant procedure performed?,0,Unmapped,,,
+HERN062,"Concomitant procedure performed//If yes, specify type",0,Unmapped,,,
+HERN063,Did concomitant procedure change wound class?,0,Unmapped,,,
+HERN064,Intraoperative complications?,42538061,Intraoperative complication,Condition,Disorder,SNOMED
+HERN065,"Intraoperative complications//If yes, specify type",0,Unmapped,,,
+HERN066,Previous mesh present?,0,Unmapped,,,
+HERN067,Mesh excision performed during procedure,0,Unmapped,,,
+HERN068,"Mesh excision performed during procedure//If yes, specify extent",0,Unmapped,,,
+HERN069,"Mesh excision performed during procedure//If yes, specify mesh type",0,Unmapped,,,
+HERN070,European Hernia Society (EHS) midline classification,0,Unmapped,,,
+HERN071,European Hernia Society (EHS) lateral classification,0,Unmapped,,,
+HERN072,Hernia length,0,Unmapped,,,
+HERN073,Hernia width,0,Unmapped,,,
+HERN074,Hernia area,0,Unmapped,,,
+HERN075,Hernia sac volume,0,Unmapped,,,
+HERN076,Abdominal cavity volume,0,Unmapped,,,
+HERN077,Loss of domain present?,0,Unmapped,,,
+HERN078,Operative approach,4148968,Surgical access values,Observation,Qualifier Value,SNOMED
+HERN079,minimally invasive surgery (MIS) ventral hernia repair technique,0,Unmapped,,,
+HERN080,Preoperative chemical component separation?,0,Unmapped,,,
+HERN081,Preoperative progressive pneumoperitoneum?,0,Unmapped,,,
+HERN082,Myofascial release?,0,Unmapped,,,
+HERN083,"Myofascial release//If yes, specify components released",0,Unmapped,,,
+HERN084,Mesh implantation?,3657408,Insertion of mesh,Procedure,Procedure,SNOMED
+HERN085,"Mesh implantation//If yes, specify number of meshes implanted",0,Unmapped,,,
+HERN086,"Mesh implantation//If yes,specify location",0,Unmapped,,,
+HERN087,"Mesh implantation//If yes, specify type",0,Unmapped,,,
+HERN088,"Mesh implantation//If yes, specify fixation and closure",0,Unmapped,,,
+HERN089,Subcutaneous flaps?,4105678,Flap,Device,Substance,SNOMED
+HERN090,Primary fascial closure?,0,Unmapped,,,
+HERN091,Fascial closure suture,0,Unmapped,,,
+HERN092,Fascial closure technique,0,Unmapped,,,
+HERN093,Drain placement?,0,Unmapped,,,
+HERN094,"Drain placement//If yes, specify location",0,Unmapped,,,
+HERN095,Wound closure,43055270,Wound closure type,Measurement,Clinical Observation,LOINC
+HERN096,Date of discharge,40485383,Date of discharge,Observation,Observable Entity,SNOMED
+HERN097,Length of stay in days,0,Unmapped,,,
+HERN098,Chronic preoperative opioid use?,0,Unmapped,,,
+HERN099,Preoperative entereg dose given?,19059654,alvimopan,Drug,Ingredient,RxNorm
+HERN100,Postoperative entereg doses given?,19059654,alvimopan,Drug,Ingredient,RxNorm
+HERN101,Total inpatient intravenous (IV) fentanyl dose (mg),1154029,fentanyl,Drug,Ingredient,RxNorm
+HERN102,Total inpatient intravenous (IV) hydromorphone (Dilaudid) dose (mg),1126658,hydromorphone,Drug,Ingredient,RxNorm
+HERN103,Total inpatient intravenous (IV) morphine dose (mg),1110410,morphine,Drug,Ingredient,RxNorm
+HERN104,Total inpatient fentanyl patch dose (�g),45882391,Inpatient,Meas Value,Answer,LOINC
+HERN105,Total inpatient by mouth (PO) hydrocodone dose (mg),1174888,hydrocodone,Drug,Ingredient,RxNorm
+HERN106,Total inpatient by mouth (PO) hydromorphone (Dilaudid) dose (mg),40051251,hydromorphone Oral Tablet [Dilaudid],Drug,Branded Drug Form,RxNorm
+HERN107,Total inpatient by mouth (PO) methadone dose (mg),1103640,methadone,Drug,Ingredient,RxNorm
+HERN108,Total inpatient by mouth (PO) morphine dose (mg),1110410,morphine,Drug,Ingredient,RxNorm
+HERN109,Total inpatient by mouth (PO) oxycodone dose (mg),1124957,oxycodone,Drug,Ingredient,RxNorm
+HERN110,Total inpatient by mouth (PO) tramadol dose (mg),1103314,tramadol,Drug,Ingredient,RxNorm
+HERN111,Inpatient oral morphine milligram equivalents (MME) administered,710224,milligram radium equivalent,Unit,Unit,UCUM
+HERN112,Opioid prescription provided at discharge?,0,Unmapped,,,
+HERN113,Additional opioids prescribed after discharge?,0,Unmapped,,,
+HERN114,Outpatient oral morphine milligram equivalents (MME) prescribed,0,Unmapped,,,
+HERN115,Date of follow-up assessment,0,Unmapped,,,
+HERN116,Follow-up period,0,Unmapped,,,
+HERN117,First follow-up assessment?,0,Unmapped,,,
+HERN118,Follow-up visit type,4235813,Postoperative follow-up visit,Observation,Procedure,SNOMED
+HERN119,Hernia recurrence?,4190765,Recurrent hernia of anterior abdominal wall,Condition,Disorder,SNOMED
+HERN120,"Hernia recurrence//If yes, specify identification modality",0,Unmapped,,,
+HERN121,Readmission?,36210471,Readmission,Meas Value,Answer,LOINC
+HERN122,"Readmission//If yes, specify reason",0,Unmapped,,,
+HERN123,Reoperation?,4128317,Reoperation,Meas Value,Qualifier Value,SNOMED
+HERN124,"Reoperation//If yes, specify reason",0,Unmapped,,,
+HERN125,Surgical site infection,4334801,Surgical site infection,Condition,Disorder,SNOMED
+HERN126,"Surgical site infection//If yes, specify location",0,Unmapped,,,
+HERN127,"Surgical site infection//If yes, treatment required?",0,Unmapped,,,
+HERN128,Surgical site occurrence (SSO),0,Unmapped,,,
+HERN129,"Surgical site occurrence (SSO)// If yes, specify type",0,Unmapped,,,
+HERN130,"Surgical site occurrence (SSO)// If yes, treatment required?",4191370,Treatment required for,Observation,Qualifier Value,SNOMED
+HERN131,Ileus?,45883597,Ileus,Meas Value,Answer,LOINC
+HERN132,Bowel obstruction?,193518,Intestinal obstruction,Condition,Disorder,SNOMED
+HERN133,Pulmonary embolism?,440417,Pulmonary embolism,Condition,Disorder,SNOMED
+HERN134,Stroke?,381316,Cerebrovascular accident,Condition,Disorder,SNOMED
+HERN135,Deep venous thrombosis (DVT)?,4133004,Deep venous thrombosis,Condition,Disorder,SNOMED
+HERN136,Myocardial infarction (MI)?,4329847,Myocardial infarction,Condition,Disorder,SNOMED
+HERN137,Cardiac arrest requiring advanced cardiac life support (ACLS)?,321042,Cardiac arrest,Condition,Disorder,SNOMED
+HERN138,Urinary retention requiring catheter?,4035673,Urinary bladder retention of urine,Observation,Observable Entity,SNOMED
+HERN139,Urinary tract infection (UTI)?,81902,Urinary tract infectious disease,Condition,Disorder,SNOMED
+HERN140,Acute renal failure?,197320,Acute kidney injury,Condition,Disorder,SNOMED
+HERN141,Pneumonia?,255848,Pneumonia,Condition,Disorder,SNOMED
+HERN142,Ventilator requirement >48 hours?,45768197,Ventilator,Device,Physical Object,SNOMED
+HERN143,Death?,4306655,Death,Observation,Event,SNOMED
+HERN144,Postoperative patient-reported outcome (PRO) assessment date,0,Unmapped,,,
+HERN145,Patient-reported outcome (PRO) assessment period,0,Unmapped,,,
+HERN146,Pain present?,37155847,Presence of pain,Observation,Observable Entity,SNOMED
+HERN147,"Pain present//If yes, specify location",3035225,Pain primary location - Reported,Observation,Clinical Observation,LOINC
+HERN148,Pain medication consumption?,0,Unmapped,,,
+HERN149,Narcotic use amount (numeric),0,Unmapped,,,
+HERN150,gastrointestinal (GI) function,37160552,Gastrointestinal tract function,Observation,Observable Entity,SNOMED
+HERN151,Diet tolerance,0,Unmapped,,,
+HERN152,Pain severity during ADLs,0,Unmapped,,,
+HERN153,Pain severity during light physical activity,0,Unmapped,,,
+HERN154,Pain severity during exercise/strenuous activity,0,Unmapped,,,
